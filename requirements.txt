@@ -23,7 +23,7 @@ PyPDF2==1.26.0
 Pyphen==0.9.5
 PySocks==1.7.0
 pytz==2018.5
-reportlab==3.5.23
+reportlab==3.5.55
 requests==2.22.0
 six==1.12.0
 tinycss2==1.0.2
